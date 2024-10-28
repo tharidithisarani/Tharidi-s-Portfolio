@@ -1,0 +1,6 @@
+{
+  "java.project.sourcePaths": ["pages"],
+  "java.project.referencedLibraries": [],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
+}
